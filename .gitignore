@@ -1,0 +1,16 @@
+# Игнорируем мусор Visual Studio
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.suo
+*.db
+*.ipch
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
